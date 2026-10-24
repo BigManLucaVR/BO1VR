@@ -1,0 +1,23 @@
+{
+  "latest_version": "0.1.119",
+  "download_url": "https://github.com/BigManLucaVR/BO1VR/releases/latest",
+  "message": "",
+  "posts": [
+    {
+      "id": "2026-10-24-beta-1",
+      "date": "2026-10-24",
+      "title": "BLACK OPS 1 VR – BETA 1 IS OUT NOW!",
+      "body": "I'm excited to finally announce that Beta 1 of the Black Ops 1 VR Mod is officially available!\n\nFirst of all, I want to say a massive THANK YOU to everyone who has supported this project so far. Whether you've been following development, sharing the mod, or just showing interest, it genuinely means a lot to me.\n\nPlease remember that this is still an early beta. And for Zombies only at the moment I'm currently working on campaign and that will be ready soon, There will be bugs, issues, and things that need improving. This is just the beginning, and there's still a lot more to come!\n\nWhat can you expect going forward?\n* Campaign full VR support added.\n* Major updates and improvements.\n* Weekly updates and bug fixes.\n* New features and improvements to the VR experience.\n* Ongoing changes based on community feedback.\n\nYOUR FEEDBACK MATTERS!\nIf you encounter any bugs, experience issues, or have suggestions for improvements, please report them! Every bit of feedback helps me massively and will play a huge part in shaping the future of this mod.\nI'm committed to continuing development and making Black Ops 1 VR the best experience it can be.\nThis is only the beginning, and I can't wait to show you what's coming next.\n\nThank you again for all the incredible support. Now go enjoy Black Ops 1 in VR!",
+      "pinned": true
+    },
+    {
+      "id": "2026-10-21-release",
+      "date": "2026-10-21",
+      "title": "BO1VR is out",
+      "body": "Black Ops Zombies and Campaign in VR: your own hands, guns you hold and reload by hand, and your own body. Press Launch game on Play, then pick Zombies or Campaign in Black Ops' own menu. If anything goes wrong, the Help page has the fixes for the common problems.",
+      "link": "https://github.com/BigManLucaVR/BO1VR",
+      "link_text": "Project page",
+      "pinned": false
+    }
+  ]
+}
